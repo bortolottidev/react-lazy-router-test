@@ -1,6 +1,10 @@
-# Getting Started with Create React App
+# React router test
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+Just trying new funny things on react-router.
+
+Open this [link](https://dev.to/infoxicator/react-router-6-deferred-fetch-4k68) for more info.
 
 ## Available Scripts
 
